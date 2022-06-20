@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Helvetica Black Condensed';
+    src: url('fonts/Helvetica-Black-Condensed.otf');
+}
+
+@font-face {
+    font-family: 'Poppins Light';
+    src: url('fonts/Poppins-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url('fonts/Poppins-Medium.ttf');
+}
